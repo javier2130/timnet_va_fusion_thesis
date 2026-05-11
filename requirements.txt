@@ -1,0 +1,14 @@
+tensorflow[and-cuda]>=2.16
+keras>=3.0
+h5py>=3.10
+librosa>=0.10
+matplotlib>=3.8
+numba>=0.59
+numpy>=1.26,<2.1
+openpyxl>=3.1
+pandas>=2.1
+scikit-learn>=1.4
+scipy>=1.12
+python_speech_features>=0.6
+tqdm>=4.66
+natsort>=8.4
